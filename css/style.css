@@ -83,7 +83,7 @@ body {
             rgba(0, 0, 0, 0.65),
             rgba(0, 0, 0, 0.1)
         ),
-        url("../images/vandebharat.jpg");
+        url("../images/vandebharat.png");
     background-size: cover;
     background-position: center;
     display: flex;
